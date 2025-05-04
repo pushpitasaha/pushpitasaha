@@ -6,20 +6,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpitasaha)
 [![Email](https://img.shields.io/badge/email-me-red?style=flat&logo=gmail&logoColor=white)](mailto:pushpitasaha_2025@depauw.edu)
 
----
-
 🎓 **CS @ DePauw University '25**  
 🌟 Women & Hi Tech Scholar • ACM Tapia 2024 Scholar • HCI International Co-Author  
 🏆 CS Outstanding Service Award • ACM-W President • Dean’s List (All Semesters)
-
----
 
 ## 🔬 Research Interests
 - **🧠 Human-Computer Interaction (HCI)** – AR learning systems, SUS pilot studies
 - **📈 Algorithm Optimization** – Real-time graph parsing on embedded systems
 - **🗣️ NLP for Social Good** – Early warning for humanitarian crises
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -41,8 +35,6 @@
 **Security & APIs:**  
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) ![REST API](https://img.shields.io/badge/-REST_API-FF6F00?style=flat&logo=apachespark&logoColor=white)
 
----
-
 ## 🎨 Cool Stuff
 
 - ✍️ **Rhetoric Minor** – Trained speaker & technical writer  
@@ -50,18 +42,10 @@
 - 📊 **Built interactive workshops** like *Binary Scavenger Hunt* & *Java Jeopardy*  
 - 🔐 **Cloud + Containerization** on AWS, GCP, Docker, CI/CD pipelines
 
----
-
-## ☕ Let’s Connect
-
-📧 pushpitasaha_2025@depauw.edu  
-
----
-
 ## 📊 Dev Stats
 
-[![Pushpita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpitasaha&show_icons=true&theme=tokyonight)](https://github.com/pushpitasaha)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pushpitasaha&theme=tokyonight&hide_border=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpitasaha&layout=compact&theme=tokyonight)](https://github.com/pushpitasaha)
-[![Pushpita's Trophies](https://github-profile-trophy.vercel.app/?username=pushpitasaha&theme=onestar&column=4)](https://github.com/pushpitasaha)
+
 
 > _“Building software to improve lives.”_
