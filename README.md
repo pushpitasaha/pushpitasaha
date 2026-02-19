@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpitasaha)
 [![Email](https://img.shields.io/badge/email-me-red?style=flat&logo=gmail&logoColor=white)](mailto:pushpitasaha_2025@depauw.edu)
 
-🎓 **CS @ DePauw University '25**  
+🎓 **CS @ DePauw University**  
 🌟 Women & Hi Tech Scholar • ACM Tapia 2024 Scholar • HCI International Co-Author  
 🏆 CS Outstanding Service Award • ACM-W President • Dean’s List (All Semesters)
 
